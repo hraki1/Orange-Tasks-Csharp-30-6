@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\presentation\presentation\bin\Debug\net6.0\presentation.exe
+C:\Users\User\Desktop\presentation\presentation\bin\Debug\net6.0\presentation.deps.json
+C:\Users\User\Desktop\presentation\presentation\bin\Debug\net6.0\presentation.runtimeconfig.json
+C:\Users\User\Desktop\presentation\presentation\bin\Debug\net6.0\presentation.dll
+C:\Users\User\Desktop\presentation\presentation\bin\Debug\net6.0\presentation.pdb
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.AssemblyInfo.cs
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.dll
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\refint\presentation.dll
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.pdb
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\presentation.genruntimeconfig.cache
+C:\Users\User\Desktop\presentation\presentation\obj\Debug\net6.0\ref\presentation.dll
